@@ -72,6 +72,4 @@ print(result_df)
 ## License
 This project is open-source and available for modification and redistribution.
 
-## Author
-[Your Name]
 
